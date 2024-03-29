@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "waniaazam-todo",
+  "version": "1.0.0",
+  "description": "A list of tasks you need to complete or things that you want to do.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaniaAzamm/Todo.git"
+  },
+  "keywords": [
+    "A",
+    "Todo",
+    "List"
+  ],
+  "author": "Wania Azam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaniaAzamm/Todo/issues"
+  },
+  "homepage": "https://github.com/WaniaAzamm/Todo#readme"
+}
